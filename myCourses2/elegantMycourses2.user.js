@@ -1,5 +1,6 @@
 // ==UserScript==
 // @match https://mycourses2.mcgill.ca/d2l/lms/discussions/messageLists/frame_right*
+// @include https://mycourses2.mcgill.ca/d2l/lms/discussions/messageLists/frame_right*
 // ==/UserScript==
 setTimeout(function(){
 	var frameright = window;
